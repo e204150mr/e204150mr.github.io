@@ -1,0 +1,27 @@
+h1.omidashi1{
+    text-align:center;
+    color:aliceblue;
+    background-color:black;
+}
+
+h1#omidashi2{
+    text-align: center;
+    color:blue;
+    background-color:chartreuse;
+}
+
+h2.tyumidashi1{
+    text-align: center;
+    color:aqua;
+    background-color:darkseagreen;
+}
+
+h2#tyumidashi2{
+    text-align: center;
+    color:crimson;
+    background-color:aqua;
+}
+
+body{
+    background-image:url(../images/back01.jpg)
+}
